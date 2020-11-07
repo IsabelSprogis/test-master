@@ -1,5 +1,5 @@
 # test-master
-experimento para comprovar a teoria de arcos minimos e teste de mutação com entradas random
+Experimento para comprovar a teoria de arcos minimos e teste de mutação com entradas random
 
 Programa e Caso de teste dentro da pasta src
 
