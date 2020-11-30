@@ -25,7 +25,7 @@ public class TestaAprovacap {
 	@Before
 	public void setUp() throws IOException {
 		//faz sentido lermos os dados do arquivo que será os dados randomicos no Setup.
-			lines = Files.readAllLines(Paths.get("C:\\Users\\tc.isprogis\\Documents\\TCC\\testeFlavio\\test-master\\RandomInputs.txt"), StandardCharsets.UTF_8); 
+			lines = Files.readAllLines(Paths.get("C:\\Users\\tc.isprogis\\Documents\\TCC\\experimento\\test-master\\RandomInputs.txt"), StandardCharsets.UTF_8); 
 	
 		System.out.println(lines);
 }
